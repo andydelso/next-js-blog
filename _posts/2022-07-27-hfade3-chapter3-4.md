@@ -1,10 +1,10 @@
 ---
 title: "My Studies of Head First Android Development - 3rd Edition: Chapters 3 & 4"
 excerpt: "A big learning point from this chapter was that all layouts extend the View class by extending the ViewGroup class. These layouts require almost all elements in an Android UI to declare their height and width and gain a common API to interact."
-coverImage: "/assets/blog/covers/2022/android-dev-skateboard.jpg"
+coverImage: "/assets/blog/covers/2022/software-developer-glasses.jpg"
 date: "2022-07-27T15:03:08.530Z"
 ogImage:
-  url: "/assets/blog/covers/2022/android-dev-skateboard.jpg"
+  url: "/assets/blog/covers/2022/software-developer-glasses.jpg"
 ---
 
 Welcome back to my series on [*Head First Android Development - 3rd Edition*](https://amzn.to/3JoTixn)! This blog post is a continuation of a series of posts I will be doing on reading and working through *Head First Android Development*. This blog deals specifically with chapters three and four. 

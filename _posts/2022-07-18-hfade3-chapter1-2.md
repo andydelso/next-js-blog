@@ -1,10 +1,10 @@
 ---
 title: "My Studies of Head First Android Development - 3rd Edition: Chapters 1 & 2"
 excerpt: "For the better part of the past year, I have been working on becoming an Android Developer. As of recently, the effort I have been putting into it, has paid off, but that is for another post."
-coverImage: "/assets/blog/covers/2022/android-dev-skateboard.jpg"
+coverImage: "/assets/blog/covers/2022/software-developer-glasses.jpg"
 date: "2022-07-18T15:03:08.530Z"
 ogImage:
-  url: "/assets/blog/covers/2022/android-dev-skateboard.jpg"
+  url: "/assets/blog/covers/2022/software-developer-glasses.jpg"
 ---
 
 For the better part of the past year, I have been working on becoming an Android Developer. As of recently, the effort I have been putting into it, has paid off, but that is for another post. My main issue has been learning consistently and being able to apply the knowledge to real-world applications. Between my day job and parental responsibilities, finding the time to sit down and study is difficult.
