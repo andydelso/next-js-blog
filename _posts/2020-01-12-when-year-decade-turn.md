@@ -3,9 +3,6 @@ title: "When a year and a decade turn"
 excerpt: "Many \"last of 2019\" posts have caught my eye, as have posts recapping the past decade via social media. The interesting part in all of this is that all of life is basically a series of beginnings and endings. Openings and closings. Starts and stops..."
 coverImage: "/assets/blog/covers/2022/2020-typewriter.jpg"
 date: "2020-01-13T14:49:12.478Z"
-author:
-  name: "andy.delso"
-  picture: "/assets/blog/authors/andydelso_avatar.jpg"
 ogImage:
   url: "/assets/blog/covers/2022/2020-typewriter.jpg"
 ---

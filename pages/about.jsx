@@ -15,7 +15,7 @@ export default function About() {
       <Container>
         <PageHeading>Nice to meet you.</PageHeading>
         <section className="max-w-3xl mx-auto py-8 md:py-16 lg:py-24">
-          <Image src="/assets/blog/authors/andydelso_avatar.JPG" alt='A picture of the author Andy Delso' width={300} height={400}/>
+          <Image src="/assets/blog/authors/andydelso-avatar.jpg" alt='A picture of the author Andy Delso' width={300} height={400}/>
           <br />
           <br />
           <p>

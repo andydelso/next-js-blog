@@ -3,9 +3,6 @@ title: "For you, mom"
 excerpt: "As I was thinking about this today, it is really odd to me, to say \"deathday\". Regardless, that does not make this any easier to write. It has been 5 years, to the day, since my mom passed away. I've decided this year to really dive deep into my thoughts about her."
 coverImage: "/assets/blog/covers/2022/mom-bears-bw.jpeg"
 date: "2020-02-04T14:21:48.315Z"
-author:
-  name: "andy.delso"
-  picture: "/assets/blog/authors/andydelso_avatar.jpg"
 ogImage:
   url: "/assets/blog/covers/2022/mom-bears-bw.jpeg"
 ---

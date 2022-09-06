@@ -3,9 +3,6 @@ title: "Election Anxiety and Covid-depression"
 excerpt: "It is that time of the year again! Where did it go? Out the window most would say... but to me, it has definitely felt much longer than a single year to. I would tend to think most of the world would have similar sentiments."
 coverImage: "/assets/blog/covers/2022/kids-depressed.jpg"
 date: "2020-12-31T14:19:12.694Z"
-author:
-  name: "andy.delso"
-  picture: "/assets/blog/authors/andydelso_avatar.jpg"
 ogImage:
   url: "/assets/blog/covers/2022/kids-depressed.jpg"
 ---

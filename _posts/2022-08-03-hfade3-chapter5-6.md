@@ -3,9 +3,6 @@ title: "My Studies of Head First Android Development - 3rd Edition: Chapters 5 &
 excerpt: "This chapter covers a very important concept of Android called the activity lifecycle. As mentioned in earlier chapters, an activity is a class that control's the app's behavior, which includes buttons in your UI responding to clicks, or what happens when a user enters information into a text view."
 coverImage: "/assets/blog/covers/2022/android-dev-skateboard.jpg"
 date: "2022-08-03T15:03:08.530Z"
-author:
-  name: "andy.delso"
-  picture: "/assets/blog/authors/andydelso_avatar.jpg"
 ogImage:
   url: "/assets/blog/covers/2022/android-dev-skateboard.jpg"
 ---

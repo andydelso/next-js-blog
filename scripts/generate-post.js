@@ -16,9 +16,7 @@ title: "${formattedTitle}"
 excerpt: "Lorem ipsum."
 coverImage: "/assets/blog/covers/2022/REPLACE-ME.jpg"
 date: "${new Date(Date.now()).toISOString()}"
-author:
-  name: "andy.delso"
-  picture: "/assets/blog/authors/andydelso_avatar.jpg"
+
 ogImage:
   url: "/assets/blog/covers/2022/REPLACE-ME.jpg"
 ---

@@ -3,9 +3,6 @@ title: "Can 2021 Be Like Turning 21 again? You know... Fun and Exciting?"
 excerpt: "I had mentioned in my previous post that I have been reading Atomic Habits by James Clear. It is quite an eye opener on the science behind habits and how to form better ones."
 coverImage: "/assets/blog/covers/2022/fireworks.jpg"
 date: "2021-01-01T14:19:12.694Z"
-author:
-  name: "andy.delso"
-  picture: "/assets/blog/authors/andydelso_avatar.jpg"
 ogImage:
   url: "/assets/blog/covers/2022/fireworks.jpg"
 ---
