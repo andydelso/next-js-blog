@@ -1,4 +1,6 @@
-# Next.js Blog Starter
+# Next.js Blog Starter by Sandypockets
+Thank you Sandypockets for this wonderful theme. I have taken it and set it up for myself. I will be updating this readme again soon.
+
 A custom Next.js blog starter for use with [`create next app`](https://nextjs.org/docs/api-reference/create-next-app). This starter design is based on the original blog starter provided by Next, but includes many extra features and performance improvements that are nice to have right out of the box.
 
 Run this in your terminal to get started:
