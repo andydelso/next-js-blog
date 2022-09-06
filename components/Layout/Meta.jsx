@@ -34,6 +34,7 @@ export default function Meta() {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
 
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+      <meta property="og:title" content="Blog. by andy.delso" />
     </Head>
   )
 }
