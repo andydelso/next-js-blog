@@ -51,9 +51,9 @@ Check out the live demo at [blog-starter.sandypockets.dev](https://blog-starter.
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=sandypockets):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sandypockets/nextjs-blog-starter/tree/main&project-name=sandypockets-blog-starter&repository-name=sandypockets-blog-starter)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/ddaypunk/next-js-blog/tree/main&project-name=next-js-blog&repository-name=ddaypunk-next-js-blog)
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sandypockets/nextjs-blog-starter/tree/main)
+<!-- [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sandypockets/nextjs-blog-starter/tree/main) -->
 
 
 ## Built with
