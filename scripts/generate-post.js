@@ -14,13 +14,13 @@ function generatePost(title) {
   const frontMatter = `---
 title: "${formattedTitle}"
 excerpt: "Lorem ipsum."
-coverImage: "/assets/blog/2022/ottawa-office.jpg"
+coverImage: "/assets/blog/covers/2022/REPLACE-ME.jpg"
 date: "${new Date(Date.now()).toISOString()}"
 author:
-  name: "sandypockets"
-  picture: "/assets/blog/authors/sandypockets_avatar.jpg"
+  name: "andy.delso"
+  picture: "/assets/blog/authors/andydelso_avatar.jpg"
 ogImage:
-  url: "/assets/blog/2022/ottawa-office.jpg"
+  url: "/assets/blog/covers/2022/REPLACE-ME.jpg"
 ---
 `
 

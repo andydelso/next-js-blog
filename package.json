@@ -1,11 +1,8 @@
 {
-  "name": "sandypockets-nextjs-blog-starter",
+  "name": "andydelso-nextjs-blog-by-sandypockets",
   "version": "1.0.0",
   "description": "A create-next-app blog starter",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sandypockets/nextjs-blog-starter/issues"
-  },
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -16,11 +13,6 @@
     "build-storybook": "build-storybook",
     "new": "node ./scripts/generate-post.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sandypockets/nextjs-blog-starter.git"
-  },
-  "homepage": "https://blog-starter.sandypockets.dev",
   "dependencies": {
     "@headlessui/react": "^1.4.0",
     "@heroicons/react": "^1.0.4",
