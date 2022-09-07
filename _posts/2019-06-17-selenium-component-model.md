@@ -1,5 +1,5 @@
 ---
-title: "Using a Component Model within Selenium to Increase Maintainability"
+title: "Selenium Component Model: Here's Why"
 excerpt: "We've noticed it has become cumbersome to manage and as such, our QA Engineers thought the models in use needed a refresh. So in recent times, we adopted what we like to call the Component Model."
 coverImage: "/assets/blog/covers/2022/lego-keyboard.jpg"
 date: "2019-06-17T02:53:46.071Z"

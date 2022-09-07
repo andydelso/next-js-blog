@@ -1,5 +1,5 @@
 ---
-title: "Can 2021 Be Like Turning 21 again? You know... Fun and Exciting?"
+title: "Can 2021 Be Like Turning 21 again? Fun and Exciting, Maybe?"
 excerpt: "I had mentioned in my previous post that I have been reading Atomic Habits by James Clear. It is quite an eye opener on the science behind habits and how to form better ones."
 coverImage: "/assets/blog/covers/2022/fireworks.jpg"
 date: "2021-01-01T14:19:12.694Z"
@@ -31,7 +31,7 @@ Finally, I will dig a bit deeper into what I want to accomplish and why.
 
 My children mean the world to me. Most parents can identify with that sentiment I would think...
 
-I will read to them as much as I can, encouraging great books like [Eragon](https://www.goodreads.com/book/show/113436.Eragon) that they can learn new words from and explore their imagination.
+I will read to them as much as I can, encouraging great books like [Eragon](https://amzn.to/3cWcubt) that they can learn new words from and explore their imagination.
 
 As stated in my last post, I feel like I don't get to spend enough time with them even with the increase in time available during quarantine. I know I am spending more, but it doesn't feel like it at times.
 
