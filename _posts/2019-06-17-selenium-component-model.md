@@ -22,7 +22,7 @@ Modern websites (i.e. web applications) are highly dynamic pieces of software wi
 
 We noticed we had multiple functional zones and really only one spot for actual page content. We had a global top nav bar that also included settings access. Additionally, there is a secondary left nav bar for navigating within functional areas. A lot of pages also contained a rail on the right side commonly housing date pickers and filters for the content view. Please refer to the mockup below to help visualize this:
 
-![](https://thepracticaldev.s3.amazonaws.com/i/s37jtenw51dgmeq8849x.png)
+![A sample mock up of the webpage used to illustrate examples](https://thepracticaldev.s3.amazonaws.com/i/s37jtenw51dgmeq8849x.png)
 
 We noticed plenty of areas in the framework where we could [DRY (Don’t Repeat Yourself)](https://www.codeproject.com/Articles/36712/SOLID-and-DRY) up the code. This is included in the SOLID software development principles. Buttons, inputs, and data visualizations all share common code in the UI implementation. Why, then, should our tests implement multiple ways to get and interact with filters across multiple page classes? 
 
