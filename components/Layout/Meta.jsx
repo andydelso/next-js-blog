@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import { HOME_OG_IMAGE_URL } from '../../lib/constants'
+import { BLOG_NAME, DESCRIPTION } from '../../lib/constants'
 
 // Favicon should be recreated at various sizes for each link below.
 export default function Meta() {
@@ -32,6 +32,8 @@ export default function Meta() {
       <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+      <meta property="og:site_name" content={BLOG_NAME} />
+      <meta property="og:description" content={DESCRIPTION} />
     </Head>
   )
 }
