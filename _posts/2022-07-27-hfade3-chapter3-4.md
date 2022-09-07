@@ -30,7 +30,7 @@ This chapter goes a bit deeper into a few different layout types, and their gene
 - FrameLayouts - child views stacked
 - ScrollViews - use to wrap layouts with a scroll bar
 
-![Linear layout example ui](../images/linear_layout_example_ui.png)
+![Linear layout example ui](../assets/blog/post-images/linear_layout_example_ui.png)
 
 Each layout type was nicely presented with a small app example to build. This chapter (as well as previous ones) employs in-text activities to solidify your knowledge. The most memorable (in my opinion) has been the Refrigerator Magnet ones, which allow you to see some of the code and fill in the blanks.
 
@@ -53,7 +53,7 @@ Chapter four dives deeply into the many abilities of this layout including
 - Chains
 - Flows
 
-![Android Studio design view with constraints](../images/design_view_constraints.png)
+![Android Studio design view with constraints](../assets/blog/post-images/design_view_constraints.png)
 
 Additionally, this chapter goes into all the relevant Android Studio tools in the Design View to work with ConstraintLayouts. 
 
@@ -85,7 +85,7 @@ Using all of the tools above was quite fun, and I am looking forward to designin
 ## I’m Only Skimming the Surface on What You Will Find in This Text!
 There is so much more to unpack than I have summarized. Truthfully, you should dive into it yourself! 
 
-I am excited to continue with this book and build more apps to gain the knowledge I need to become an Android Developer. Next in the series I will be [covering Chapter 5 and 6](2022-08-03-my-studies-of-head-first-android-development-3rd-edition-chapters-5-6.md) to prove my notes, thoughts, and questions for you. 
+I am excited to continue with this book and build more apps to gain the knowledge I need to become an Android Developer. Next in the series I will be [covering Chapter 5 and 6](/posts/2022-08-03-hfade3-chapter5-6) to prove my notes, thoughts, and questions for you. 
 
 What excites you about the prospect of reading it?
 

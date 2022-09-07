@@ -46,7 +46,7 @@ With the Chronometer app, most of the work ends up being done in the `onStart` a
 
 This chapter is quite crucial to understanding how an activity works, so I made sure to attempt drawing the diagram from memory a few times for practice.
 
-![Activity Lifecycle Drawing on Whiteboard](../images/activity_lifeCycle_drawing.jpeg)
+![Activity Lifecycle Drawing on Whiteboard](../assets/blog/post-images/activity_lifeCycle_drawing.jpg)
 
 ## Chapter 6
 The next chapter chooses to focus on Fragments, which is another important layer on top of Activities. Fragments, in short, are sort of like sub-activities, and are the way that Android solves apps that require more than one screen without using multiple activities. Instead, we can use a single activity that hosts multiple fragments, and simplify the code using [Android's Jetpack Navigation component](https://developer.android.com/guide/navigation/).
