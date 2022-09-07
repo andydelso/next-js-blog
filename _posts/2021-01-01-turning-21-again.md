@@ -81,7 +81,7 @@ This year I will hit my reading goal on [GoodReads](https://www.goodreads.com) o
 
 I've found that reading after chilling to some TV or streaming is a great way to calm my mind and tire my eyes.
 
-I will finish books like Atomic Habits, [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), and try to keep up with new Star Wars releases.
+I will finish books like Atomic Habits, [Clean Code](https://amzn.to/3AZdHqF), and try to keep up with new Star Wars releases.
 
 ---
 
