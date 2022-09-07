@@ -30,6 +30,8 @@ export default function Post({ post, morePosts, preview }) {
                   {post.title} | {BLOG_NAME}
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
+                <meta property="og:title" content={post.title} />
+                <meta property="og:type" content="article" />
               </Head>
               <PostHeader
                 title={post.title}

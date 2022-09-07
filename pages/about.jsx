@@ -1,16 +1,21 @@
 import Head from 'next/head'
 import Container from '../components/Layout/Container'
 import Layout from '../components/Layout/Layout'
-import { BLOG_NAME } from '../lib/constants'
+import { BLOG_NAME, HOME_OG_IMAGE_URL } from '../lib/constants'
 import PageHeading from '../components/PageHeading'
 import Link from 'next/link'
 import Image from 'next/image'
 
 export default function About() {
+  const pageTitle = `About | ${BLOG_NAME}`
+
   return (
     <Layout>
       <Head>
-        <title>About | {BLOG_NAME}</title>
+        <title>{pageTitle}</title>
+        <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:type" content="website" />
       </Head>
       <Container>
         <PageHeading>Nice to meet you.</PageHeading>
