@@ -24,16 +24,22 @@ export default function About() {
           <br />
           <br />
           <p>
-            Hello! I&apos;m Andy Delso! I am a software developer with a primary focus on quality assurance. 
-            Most recently, I worked for <Link href="https://m1.com/"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">M1</a></Link> as a Staff Test Engineer building out their Android automated test infrastructure. 
-            Although recently, I was promoted to Mobile Engineer on the Android team! 
-            I have been working on said infrastructure using Espresso and Firebase Test Lab. 
-            I am eagerly looking forward to working more in the app itself!
+            Hello! I&apos;m Andy Delso! I am a software developer with a focus on quality Android applications. 
+            Currently, I work for <Link href="https://m1.com/"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">M1</a></Link> as a recently promoted to Mobile Engineer on the Android team! 
+            Previously, I had been working on their infrastructure using Espresso and Firebase Test Lab as a Staff Test Engineer. 
+            My projects latley have included working on our updated branding and user experience projects in the Android app!
+            During our most recent Hackathon, I had the privilage of building out our Client Support feature, which was a super fun learning experience!
+          </p>
+          <br />
+          <p>
+            While this blog is my main form of content generation, I also post it to my socials. 
+            More recently I stepped away from Twitter for reasons many users have. Thus I use <Link rel="me" href="https://androiddev.social/@andy"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">Mastodon</a></Link> instead.
+            I also cross post primarily to <Link href="https://dev.to/ddaypunk"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">Dev.to</a></Link> and sometimes <Link href="https://medium.com/@thedelso"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">Medium</a></Link>
           </p>
           <br />
           <p>
             As of August 2019 I am a <Link href="https://twitch.tv/ddaypunk"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">Twitch.tv affiliate</a></Link>! 
-            Lately I have been streaming games like Call of Duty Warzone and Fall Guys, amongst others. 
+            Lately I have been streaming games like Call of Duty Warzone but would like to get back to some solo streams with games like God of War Ragnarok or Assassin's Creed. 
             I tend to enjoy playing games with people, but I enjoy chatting with folks while gaming as well. 
             I primarily like games with interesting stories and compelling gameplay such as The Last of Us, but I also enjoy team based FPS games like Overwatch.
           </p>
@@ -54,14 +60,14 @@ export default function About() {
             <ul>
               <li><b>Languages</b>: Kotlin, Java, JavaScript, Groovy, Python</li>
               <li><b>Automation</b>: Espresso, Playwright, Selenium, Appium, JUnit, RestAssured, Wiremock, Geb, Spock</li>
-              <li><b>Technologies</b>: Docker, React.js, Node.js, libgdx</li>
+              <li><b>Technologies</b>: Android, Jetpack, Docker, React.js, Node.js, libgdx</li>
               <li><b>Tools</b>: Android Studio, IntelliJ, VSCode, Insomnia, Proxyman Git</li>
               <li><b>Operating Systems</b>: Windows, Mac, Android,iOS, Linux</li>
             </ul>
           </p>
           <br />
           <p>
-            Last updated: 27 August 2022
+            Last updated: 2 December 2022
           </p>
         </section>
       </Container>
