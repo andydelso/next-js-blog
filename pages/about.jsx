@@ -39,7 +39,7 @@ export default function About() {
           <br />
           <p>
             As of August 2019 I am a <Link href="https://twitch.tv/ddaypunk"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">Twitch.tv affiliate</a></Link>! 
-            Lately I have been streaming games like Call of Duty Warzone but would like to get back to some solo streams with games like God of War Ragnarok or Assassin's Creed. 
+            Lately I have been streaming games like Call of Duty Warzone but would like to get back to some solo streams with games like God of War Ragnarok or Assassin&apos;s Creed. 
             I tend to enjoy playing games with people, but I enjoy chatting with folks while gaming as well. 
             I primarily like games with interesting stories and compelling gameplay such as The Last of Us, but I also enjoy team based FPS games like Overwatch.
           </p>
