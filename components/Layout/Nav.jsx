@@ -15,6 +15,10 @@ const navigation = [
     href: '/about',
   },
   {
+    name: 'Portfolio',
+    href: `/portfolio`,
+  },
+  {
     name: 'Contact',
     href: '/contact',
   },

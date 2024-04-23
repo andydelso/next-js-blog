@@ -5,7 +5,7 @@ export default function Intro() {
         Blog.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Musings about testing, software development, and other things...
+        Musings about mobile development, software quality, and such...
       </h4>
     </section>
   )
