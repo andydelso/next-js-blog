@@ -18,57 +18,53 @@ export default function About() {
         <meta property="og:type" content="website" />
       </Head>
       <Container>
-        <PageHeading>Nice to meet you.</PageHeading>
+        <PageHeading>Hello There.</PageHeading>
         <section className="max-w-3xl mx-auto py-8 md:py-16 lg:py-24">
-          <Image src="/assets/blog/authors/andydelso-avatar.jpg" alt='A picture of the author Andy Delso' width={300} height={400}/>
-          <br />
-          <br />
-          <p>
-            Hello! I&apos;m Andy Delso! I am a software developer with a focus on quality Android applications. 
-            Currently, I work for <Link href="https://m1.com/"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">M1</a></Link> as a recently promoted to Mobile Engineer on the Android team! 
-            Previously, I had been working on their infrastructure using Espresso and Firebase Test Lab as a Staff Test Engineer. 
-            My projects latley have included working on our updated branding and user experience projects in the Android app!
-            During our most recent Hackathon, I had the privilage of building out our Client Support feature, which was a super fun learning experience!
-          </p>
-          <br />
-          <p>
-            While this blog is my main form of content generation, I also post it to my socials. 
-            More recently I stepped away from Twitter for reasons many users have. Thus I use <Link rel="me" href="https://androiddev.social/@andy"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">Mastodon</a></Link> instead.
-            I also cross post primarily to <Link href="https://dev.to/ddaypunk"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">Dev.to</a></Link> and sometimes <Link href="https://medium.com/@thedelso"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">Medium</a></Link>
-          </p>
-          <br />
-          <p>
-            As of August 2019 I am a <Link href="https://twitch.tv/ddaypunk"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">Twitch.tv affiliate</a></Link>! 
-            Lately I have been streaming games like Call of Duty Warzone but would like to get back to some solo streams with games like God of War Ragnarok or Assassin&apos;s Creed. 
-            I tend to enjoy playing games with people, but I enjoy chatting with folks while gaming as well. 
-            I primarily like games with interesting stories and compelling gameplay such as The Last of Us, but I also enjoy team based FPS games like Overwatch.
-          </p>
-          <br />
-          <p>
-          Outside of my profession and streaming, I also enjoy: 
-          <ul>
-            <li>&bull; playing guitar (alt. rock, pop punk)</li>
-            <li>&bull; sketching (pencil, pixels)</li>
-            <li>&bull; reading (sci-fi, technical)</li>
-            <li>&bull; painting and playing miniature war-games (WarmaHordes, Malifaux, X-Wing)</li>
-            <li>&bull; and doing fun things with my family (Legos, photography, boardgames, travel)</li>
-            <li></li>
-          </ul>
-          </p>
-          <br />
-          <p>
-            <ul>
-              <li><b>Languages</b>: Kotlin, Java, JavaScript, Groovy, Python</li>
-              <li><b>Automation</b>: Espresso, Playwright, Selenium, Appium, JUnit, RestAssured, Wiremock, Geb, Spock</li>
-              <li><b>Technologies</b>: Android, Jetpack, Docker, React.js, Node.js, libgdx</li>
-              <li><b>Tools</b>: Android Studio, IntelliJ, VSCode, Insomnia, Proxyman Git</li>
-              <li><b>Operating Systems</b>: Windows, Mac, Android,iOS, Linux</li>
-            </ul>
-          </p>
-          <br />
-          <p>
-            Last updated: 2 December 2022
-          </p>
+          <div style={{ float: 'left', marginRight: '20px' }}>
+            <Image src="/assets/blog/authors/andydelso-avatar.jpg" alt='A picture of the author Andy Delso' width={300} height={400}/>
+          </div>
+          <div>
+            <p>
+              Hey there! I&apos;m Andrew Delso, but you can just call me Andy. I&apos;m passionate about mobile application development, specializing in Android with a keen eye for quality.
+            </p>
+            <br />
+            <p>
+              Currently, I&apos;m on a journey of self-improvement after recently transitioning from my role at <Link href="https://m1.com/"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">M1</a></Link>. During this time, I&apos;ve been dedicated to filling any experience gaps, diving into exciting areas like Kotlin Multiplatform and Jetpack Compose UI to sharpen my skills.
+            </p>
+            <br />
+            <p>
+              My journey into Android development began at M1, where I transitioned from a Staff Test Engineer to a Mobile Engineer II on the Android team. There, I played a pivotal role in projects like updating branding and building our savings account offering, showcasing my dedication and drive for excellence.
+            </p>
+            <br />
+            <p>
+              While at M1, I paticipated on various hackathon teams, working on projects like enhancing client support features to implementing innovative solutions like API-driven localization.
+            </p>
+            <br />
+              <p>For a deeper dive into my projects, check out my Portfolio page!</p>
+            <br />
+            <p>
+              Beyond development, I&apos;m an aspiring content creator, sharing my insights and experiences on platforms like <Link href="https://dev.to/ddaypunk"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">Dev.to</a></Link> and <Link rel="me" href="https://androiddev.social/@andy"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">Mastodon</a></Link>. And yes, you also can catch me on <Link href="https://twitch.tv/ddaypunk"><a className="text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200">Twitch.tv</a></Link> as <b>ddaypunk</b>, where I unwind with games like Call of Duty Warzone or dive into captivating narratives like God of War Ragnarok.
+            </p>
+            <br />
+            <p>
+              When I&apos;m not coding or gaming, you&apos;ll find me strumming my guitar, sketching, or lost in the pages of a sci-fi novel. I also have a soft spot for miniature war-games and enjoy quality time with my family, whether it&apos;s building Lego masterpieces or capturing moments through photography.
+            </p>
+            <br />
+            <p>
+              <ul>
+                <li><b>Languages</b>: Kotlin, Java, JavaScript, Groovy, Python</li>
+                <li><b>Automation</b>: Espresso, Playwright, Selenium, Appium, JUnit, RestAssured, Wiremock, Geb, Spock</li>
+                <li><b>Technologies</b>: Android, Jetpack, Kotlin Multiplatform, Docker, React.js, Node.js, libgdx</li>
+                <li><b>Tools</b>: Android Studio, IntelliJ, VSCode, Insomnia, Proxyman Git</li>
+                <li><b>Operating Systems</b>: Windows, Mac, Android,iOS, Linux</li>
+                <li>I do have some exposure to the <b>iOS ecosystem</b> as well given using Kotlin Multiplatform to build apps. Specifically, I can find my way around XCode, SwiftUI and XCUITest.</li>
+              </ul>
+            </p>
+            <br />
+            <p>
+              <i>Last updated: 23 April 2024</i>
+            </p>
+          </div>
         </section>
       </Container>
     </Layout>
