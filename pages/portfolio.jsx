@@ -4,8 +4,6 @@ import Layout from '../components/Layout/Layout'
 import { BLOG_NAME, HOME_OG_IMAGE_URL } from '../lib/constants'
 import PageHeading from '../components/PageHeading'
 import ProjectCard from '../components/Portfolio/ProjectCard'
-import Link from 'next/link'
-import Image from 'next/image'
 
 export default function Portfolio() {
   const pageTitle = `Portfolio | ${BLOG_NAME}`
