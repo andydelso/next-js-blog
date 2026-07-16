@@ -24,7 +24,7 @@ const ProjectCard = ({ title, description, imageUrl, href }) => {
     )}
     <div className="p-6">
         {href ? (
-            <Link href={href}>
+            <Link href={href} legacyBehavior>
                 <a className="text-xl font-semibold mb-2 hover:underline">{title}</a>
             </Link>
         ) : (
