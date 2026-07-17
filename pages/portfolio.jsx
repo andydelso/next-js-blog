@@ -45,7 +45,7 @@ export default function Portfolio({ content }) {
               title="Aperture"
               description="Allows you to track your cinamtic journey through the Oscar nominees in the Best Picture category and beyond! Utilizes cutting-edge technologies such as Kotlin Multiplatform along with Jetpack Compose and Swift UI, SQLDelight,and Koin. Stay tuned for a release to the Play and App Stores in the near future!"
               imageUrl=""
-              href="https://github.com/ddaypunk/aperture"
+              href=""
             />
             <ProjectCard
               title="Datapad 5e"
