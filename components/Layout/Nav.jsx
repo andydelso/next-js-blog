@@ -45,14 +45,14 @@ export default function Nav({ darkMode, setDarkMode }) {
               <div className="flex">
                 <div className="flex-shrink-0 flex items-center pr-4">
                   <Highlight>
-                    <Link href={'/'}>
+                    <Link href={'/'} legacyBehavior>
                       <a>andy.delso</a>
                     </Link>
                   </Highlight>
                 </div>
                 <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
                   {navigation.map((item, index) => (
-                    <Link key={index} href={item.href}>
+                    <Link key={index} href={item.href} legacyBehavior>
                       <a
                         className={
                           currentPath === item.href
@@ -86,7 +86,7 @@ export default function Nav({ darkMode, setDarkMode }) {
           <Disclosure.Panel className="sm:hidden pb-5">
             <div className="pt-2 pb-3 space-y-1">
               {navigation.map((item, index) => (
-                <Link key={index} href={item.href}>
+                <Link key={index} href={item.href} legacyBehavior>
                   <a
                     className={
                       currentPath === item.href

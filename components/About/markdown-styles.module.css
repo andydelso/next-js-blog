@@ -1,0 +1,25 @@
+.markdown {
+  @apply text-lg leading-relaxed;
+}
+
+.markdown a {
+  @apply text-base text-orange-500 hover:text-orange-900 dark:hover:text-orange-200;
+}
+
+.markdown p {
+  @apply font-light my-6;
+}
+
+.markdown p strong {
+  @apply font-semibold;
+}
+
+.markdown ul,
+.markdown ol {
+  @apply my-6 list-disc ml-10 font-light;
+}
+
+.markdown ul li,
+.markdown ol li {
+  @apply px-0 py-2;
+}

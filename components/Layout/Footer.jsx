@@ -86,7 +86,7 @@ export default function Footer() {
           >
             {navigation.main.map((item, index) => (
               <div key={index} className="px-5 py-2">
-                <Link href={item.href}>
+                <Link href={item.href} legacyBehavior>
                   <a className="text-base text-gray-500 hover:text-gray-900 dark:hover:text-gray-200">
                     {item.name}
                   </a>
